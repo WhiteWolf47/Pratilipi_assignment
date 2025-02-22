@@ -1,0 +1,14 @@
+pycache
+pa_venv
+plots
+.qodo
+
+metadata.csv
+processed_metadata.csv
+
+user_interaction.csv
+processed_interactions.csv
+
+hybrid_recommender.joblib
+item_encoder.joblib
+user_encoder.joblib

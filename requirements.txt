@@ -1,0 +1,23 @@
+# Data processing and analysis
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn
+implicit
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Application
+streamlit
+
+# Date handling
+python-dateutil
+
+# Optional: For better performance
+tqdm
