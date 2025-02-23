@@ -21,3 +21,6 @@ python-dateutil
 
 # Optional: For better performance
 tqdm
+
+ipykernel
+lightfm

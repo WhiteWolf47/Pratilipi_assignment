@@ -27,35 +27,37 @@ This repository contains a hybrid recommendation system that predicts which prat
 
 Follow these steps to set up and run the project:
 
-1. **Fork the Repository**  
-   - Click the "Fork" button on the GitHub page to create your own copy.
+1. **Fork the Repository**
 
-2. **Clone the Repository**  
+   - Click the "Fork" button on the GitHub page to create your own copy.
+2. **Clone the Repository**
+
    Open your terminal and run:
    ```bash
    git clone https://github.com/your-username/repository-name.git
-
 3. **Create a Python Virtual Environment**
 
     Navigate to the repository directory and create a virtual environment:
     ```bash
     cd repository-name
     python3 -m venv pa_env
-
 4. **Activate the Virtual Environment**
 
     Activate the virtual environment:
     ```bash
     source pa_env/bin/activate
-
 5. **Install Dependencies**
 
     Install the required Python packages:
     ```bash
     pip install -r requirements.txt
+6. **Run the Jupyter Notebook for Data Preprocessing and EDA**
 
-6. **Run both of the Jupyter Notebooks at you ease**
+    Open the `data_preprocessing.ipynb` notebook in Jupyter Notebook and run the cells to preprocess the data and perform EDA.
+7. **Run the python script for Model Training and Evaluation**
 
+    ```bash
+        python hybrid_recc_system.py
 ---
 
 ## Documentation
